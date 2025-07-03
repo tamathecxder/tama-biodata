@@ -1,4 +1,4 @@
-package main
+package tamabiodata
 
 type Biodata struct {
 	Name, LinkedInURL, GithubURL string
